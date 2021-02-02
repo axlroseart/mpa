@@ -1,0 +1,11 @@
+{
+  "runtime": {
+    "cdnBase": "//platform.codemao.cn/platform-informatization/2/hra-assist",
+    "apiBase": {
+      "common": "https://backend-dev.codemao.cn"
+    },
+    "hostBase": {
+      "mobile": "https://staging-mobile.codemao.cn"
+    }
+  }
+}

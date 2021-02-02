@@ -1,0 +1,14 @@
+{
+  "viewportWidth": 375,
+  "serverPort": 5000,
+  "debugPort": 9229,
+  "runtime": {
+    "cdnBase": "",
+    "apiBase": {
+      "common": "//127.0.0.1:4081/common/__proxy__"
+    },
+    "hostBase": {
+      "mobile": ""
+    }
+  }
+}
